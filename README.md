@@ -11,3 +11,5 @@
 * Update the target thread's instruction pointer to point to the shellcode
 * Commit the hijacked thread's new context with [SetThreadContext](https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-setthreadcontext)
 * Resume the hijacked thread with [ResumeThread](https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-resumethread)
+# GIF
+![Alt Text Here](https://raw.githubusercontent.com/Kara-4search/ProjectPics/main/ThreadHijacking_gif.gif)
