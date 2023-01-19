@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Thread-Hijacking", "Thread-Hijacking\Thread-Hijacking.vcxproj", "{14F8A45D-C111-450F-9779-9205E51B9F01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14F8A45D-C111-450F-9779-9205E51B9F01}.Debug|x64.ActiveCfg = Debug|x64
+		{14F8A45D-C111-450F-9779-9205E51B9F01}.Debug|x64.Build.0 = Debug|x64
+		{14F8A45D-C111-450F-9779-9205E51B9F01}.Debug|x86.ActiveCfg = Debug|Win32
+		{14F8A45D-C111-450F-9779-9205E51B9F01}.Debug|x86.Build.0 = Debug|Win32
+		{14F8A45D-C111-450F-9779-9205E51B9F01}.Release|x64.ActiveCfg = Release|x64
+		{14F8A45D-C111-450F-9779-9205E51B9F01}.Release|x64.Build.0 = Release|x64
+		{14F8A45D-C111-450F-9779-9205E51B9F01}.Release|x86.ActiveCfg = Release|Win32
+		{14F8A45D-C111-450F-9779-9205E51B9F01}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BC8F10D-980A-43AA-91DC-7B28216A0236}
+	EndGlobalSection
+EndGlobal
